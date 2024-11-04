@@ -1,0 +1,5 @@
+Python is a powerful language for data manipulation and file handling
+It pairs seamlessly with Power BI, Microsoft’s leading data visualization tool.
+In this tutorial, we will learn how to read data from files using Python
+Clean or process it, and then connect the resulting data to Power BI for visualization.
+Useful when dealing with large datasets, log files that need processing before analysis.
